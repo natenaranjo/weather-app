@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Weather Tracker App" />
+        <meta name="author" content="Nate Naranjo" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mother Nature Tracker</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="./assets/css/global.css" />
+        <link rel="stylesheet" href="./assets/css/app.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" />
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    </head>
+    <body>
+
+        <div class="search">
+            <input typ="text" class="search-bar rounded-full text-center border-2 border-black" placeholder="Enter a city" />
+            <button><i class="fa fa-search text-xl" aria-hidden="true"></i></button>
+        </div>
+
+        <div class="weather">
+            <h2 class="city capitalize">Weather in Denver</h2>
+            <div class="temp">51°F</div>
+            <img src="./assets/img/weather icons/sun.png" alt="/" class="icon h-16 w-16 width="5%" />
+            <div class="description capitalize">Cloudy</div>
+            <div class="humidity capitalize">Humidity: 60%</div>
+            <div class="wind capitalize">Wind speed: 3 mph</div>
+        </div>
+
+        <script src="./assets/js/app.js" defer></script>
+    </body>
+</html>
