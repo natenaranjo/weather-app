@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/natenaranjo/weather-app/blob/main/img/screenshot.png)
 
 Using Third-party API's to develop a weather dashboard app.  An app that allows a traveler to see the weather for multiple cities.
 * [x] When searching for a city, presented with current and future weather conditions for that city.
@@ -75,7 +75,7 @@ Project Link: [https://github.com/natenaranjo/weather-app](https://github.com/na
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: /../img/screenshot.png
+[product-screenshot]: ../img/screenshot.png
 [JavaScript.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [Tailwindcss.com]: https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg
