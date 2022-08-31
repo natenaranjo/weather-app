@@ -27,22 +27,22 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Using Third-party API's to develop a weather dashboard app.  An app that allows a traveler to see the weather for multiple cities.
-* [ ] When searching for a city, presented with current and future weather conditions for that city.
-* [ ] Display city name, current date, and icon representation of weather conditions:
-    * [ ] Temperature
-    * [ ] Humidity
-    * [ ] Wind Speed
-    * [ ] UV Index
+* [x] When searching for a city, presented with current and future weather conditions for that city.
+* [x] Display city name, current date, and icon representation of weather conditions:
+    * [x] Temperature
+    * [x] Humidity
+    * [x] Wind Speed
+    * [x] UV Index
 * [ ] When viewing the UV Index
-    * [ ] Presented with a color for each (favorable, moderate, or server);
-* [ ] When viewing future weather
-    * [ ] The Date
-    * [ ] Icon representing weather conditions
-    * [ ] Temperature
-    * [ ] Wind Speed
-    * [ ] Humidity
-* [ ] When click on a city in the search history
-    * [ ] Presented with current and future conditions for that city
+    * [x] Presented with a color for each (favorable, moderate, or server);
+* [x] When viewing future weather
+    * [x] The Date
+    * [x] Icon representing weather conditions
+    * [x] Temperature
+    * [x] Wind Speed
+    * [x] Humidity
+* [x] When click on a city in the search history
+    * [x] Presented with current and future conditions for that city
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -53,7 +53,7 @@ Using Third-party API's to develop a weather dashboard app.  An app that allows 
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Moment][Moment.js]][Moment-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -69,9 +69,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nate Naranjo - [@Nate Naranjo](https://twitter.com/NathanNaranjo12) - dev.natenaranjo@gmail.com
+Nate Naranjo - [@Nate Naranjo](https://twitter.com/rezzingonweb3) - natenaranjodev@gmail.com
 
-Project Link: [https://github.com/natenaranjo/dailyscheduler](https://github.com/natenaranjo/dailyscheduler)
+Project Link: [https://github.com/natenaranjo/weather-app](https://github.com/natenaranjo/weather-app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
