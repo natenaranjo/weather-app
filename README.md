@@ -75,7 +75,7 @@ Project Link: [https://github.com/natenaranjo/weather-app](https://github.com/na
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: ./assets/img/screenshot.png
+[product-screenshot]: ../assets/img/screenshot.png
 [JavaScript.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [Tailwindcss.com]: https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg
